@@ -18,3 +18,18 @@ This is a simple Rock, Paper, Scissors game implemented in Java.
 1. Compile the Java file:
    ```sh
    javac RockPaperScissors.java
+
+Example Output
+########################### Rock, Paper, Scissors ###########################
+Loading########################################################################
+
+1. > Play
+2. > Exit
+Choice : 1
+> Rock
+> Paper
+> Scissors
+Enter Your Choice : Rock
+Computer Choice = scissors
+You win round 1
+...
